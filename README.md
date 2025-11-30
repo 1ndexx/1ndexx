@@ -1,3 +1,1 @@
-- 🔭 I’m currently working on my own website
-- 🌱 I’m currently learning web languages
-- 🤔 I’m looking for help with node.js
+
